@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CirclesAndBoxes
 - 🌠 Interested in Minecraft Data Packs and stuff you can add without mods!
 - 👀 Would like to learn how to get actual code in Minecraft w/o mods. Plugins?
-- 🌱 I’m currently learning how the new minecraft updates works with data packs
+- 🌱 I’m currently learning how the new Minecraft updates works with data packs
 - 💞️ I’m looking to collaborate on anything data pack related!
-- 📫 Try leaving a note or something on my repository
-- ⚡ Fun fact: Did you know that the spirals on pinecones often form Fibonacci numbers?
+- 📫 Try leaving a note or something on my repository if you want to contact me...
+- ⚡ Fun fact: Did you know that the spirals on plants often form Fibonacci numbers?
 
 <!---
 CirclesAndBoxes/CirclesAndBoxes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
